@@ -76,11 +76,16 @@ import com.google.firebase.storage.UploadTask;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.function.ToDoubleBiFunction;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
-public class MainActivity extends AppCompatActivity implements
-        GoogleApiClient.OnConnectionFailedListener {
+
+//TODO IS GOOGLE API NEEDED IF APP IS NOT ON MARKET?
+
+//public class MainActivity extends AppCompatActivity implements
+//        GoogleApiClient.OnConnectionFailedListener {
+public class MainActivity extends AppCompatActivity {
 
     public static class MessageViewHolder extends RecyclerView.ViewHolder {
         TextView messageTextView;
@@ -150,10 +155,11 @@ public class MainActivity extends AppCompatActivity implements
             }
         }
 
-        mGoogleApiClient = new GoogleApiClient.Builder(this)
-                .enableAutoManage(this /* FragmentActivity */, this /* OnConnectionFailedListener */)
-                .addApi(Auth.GOOGLE_SIGN_IN_API)
-                .build();
+        //TODO NO NEED TO SEND INSTALL
+//        mGoogleApiClient = new GoogleApiClient.Builder(this)
+//                .enableAutoManage(this /* FragmentActivity */, this /* OnConnectionFailedListener */)
+//                .addApi(Auth.GOOGLE_SIGN_IN_API)
+//                .build();
 
         mProgressBar = (ProgressBar) findViewById(R.id.progressBar);
         mMessageRecyclerView = (RecyclerView) findViewById(R.id.messageRecyclerView);
@@ -237,14 +243,14 @@ public class MainActivity extends AppCompatActivity implements
                             .load(friendlyMessage.getPhotoUrl())
                             .into(viewHolder.messengerImageView);
                 }
-
-                if (friendlyMessage.getText() != null) {
-                    // write this message to the on-device index
-                    FirebaseAppIndex.getInstance().update(getMessageIndexable(friendlyMessage));
-                }
+//
+//                if (friendlyMessage.getText() != null) {
+//                    // write this message to the on-device index
+//                    FirebaseAppIndex.getInstance().update(getMessageIndexable(friendlyMessage));
+//                }
 
                 // log a view action on it
-                FirebaseUserActions.getInstance().end(getMessageViewAction(friendlyMessage));
+              //  FirebaseUserActions.getInstance().end(getMessageViewAction(friendlyMessage));
             }
         };
 
@@ -341,32 +347,33 @@ public class MainActivity extends AppCompatActivity implements
         });
     }
 
-    private Action getMessageViewAction(FriendlyMessage friendlyMessage) {
-        return new Action.Builder(Action.Builder.VIEW_ACTION)
-                .setObject(friendlyMessage.getName(), MESSAGE_URL.concat(friendlyMessage.getId()))
-                .setMetadata(new Action.Metadata.Builder().setUpload(false))
-                .build();
-    }
+//    private Action getMessageViewAction(FriendlyMessage friendlyMessage) {
+//        return new Action.Builder(Action.Builder.VIEW_ACTION)
+//                .setObject(friendlyMessage.getName(), MESSAGE_URL.concat(friendlyMessage.getId()))
+//                .setMetadata(new Action.Metadata.Builder().setUpload(false))
+//                .build();
+//    }
 
-    private Indexable getMessageIndexable(FriendlyMessage friendlyMessage) {
-        PersonBuilder sender = Indexables.personBuilder()
-                .setIsSelf(mUsername.equals(friendlyMessage.getName()))
-                .setName(friendlyMessage.getName())
-                .setUrl(MESSAGE_URL.concat(friendlyMessage.getId() + "/sender"));
-
-        PersonBuilder recipient = Indexables.personBuilder()
-                .setName(mUsername)
-                .setUrl(MESSAGE_URL.concat(friendlyMessage.getId() + "/recipient"));
-
-        Indexable messageToIndex = Indexables.messageBuilder()
-                .setName(friendlyMessage.getText())
-                .setUrl(MESSAGE_URL.concat(friendlyMessage.getId()))
-                .setSender(sender)
-                .setRecipient(recipient)
-                .build();
-
-        return messageToIndex;
-    }
+    //SEARCHABLE MESSAGE IN GOOGLE -> IN APP SEARCH -> REDIRECTS TO CHAT
+//    private Indexable getMessageIndexable(FriendlyMessage friendlyMessage) {
+//        PersonBuilder sender = Indexables.personBuilder()
+//                .setIsSelf(mUsername.equals(friendlyMessage.getName()))
+//                .setName(friendlyMessage.getName())
+//                .setUrl(MESSAGE_URL.concat(friendlyMessage.getId() + "/sender"));
+//
+//        PersonBuilder recipient = Indexables.personBuilder()
+//                .setName(mUsername)
+//                .setUrl(MESSAGE_URL.concat(friendlyMessage.getId() + "/recipient"));
+//
+//        Indexable messageToIndex = Indexables.messageBuilder()
+//                .setName(friendlyMessage.getText())
+//                .setUrl(MESSAGE_URL.concat(friendlyMessage.getId()))
+//                .setSender(sender)
+//                .setRecipient(recipient)
+//                .build();
+//
+//        return messageToIndex;
+//    }
 
     @Override
     public void onPause() {
@@ -492,8 +499,8 @@ public class MainActivity extends AppCompatActivity implements
                                                 .getReference(mFirebaseUser.getUid())
                                                 .child(key)
                                                 .child(uri.getLastPathSegment());
-
-                                        putImageInStorage(storageReference, uri, key);
+          //TODO
+           //                             putImageInStorage(storageReference, uri, key);
                                     } else {
                                         Log.w(TAG, "Unable to write message to database.",
                                                 databaseError.toException());
@@ -553,9 +560,10 @@ public class MainActivity extends AppCompatActivity implements
         Log.d(TAG, "FML is: " + friendly_msg_length);
     }
 
-    @Override
-    public void onConnectionFailed(ConnectionResult connectionResult) {
-        Log.d(TAG, "onConnectionFailed:" + connectionResult);
-    }
+    //TODO NO NEED FOR SEND INVITES
+//    @Override
+//    public void onConnectionFailed(ConnectionResult connectionResult) {
+//        Log.d(TAG, "onConnectionFailed:" + connectionResult);
+//    }
 
 }
