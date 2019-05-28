@@ -1,0 +1,346 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\f06f29b0ddb9e585625b3a036bac1d00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e3c51256920a8b7a4d6eb2de5ef980ca\AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\3d366d6237fade39c29608921d3a9af4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\2e907892e95f29077847ad72037ad6e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:17:1-39:12
+MERGED from [com.firebaseui:firebase-ui-database:4.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\362186159b4526b73d8216402826940b\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cbd97757a4e4d3767ec96be207beba94\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\31a8489b8b0bf03a8ed89408847fb996\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\5fe52f7b390f618d99bb934464419afb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\faf750738891c239f05dd9b4e7f6bf40\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ab92047d384338f01d51794ffe99f172\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\9c9a2d3264fd54c10e19b1d66bd8cfef\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e08d92a67e11e82756dd39a9483ffa95\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\7fe53b1df8e90f0d8e9a6d9e075a34b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b7fd5f9a4942c832dd2c3d27aed5740e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ca27cb5e021e51686179afe4f086de30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\6d09c0dee90c7b93f6f4d7f3a87e1757\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\c38fcc290bec1998dc8f694fc22d00ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a8d7f11bb1f08fef3e73ab8bf255f5a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\56a6287df8ee39db8136d9f2dc421ff3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\2b46a5977c63545c247f9cc085d5a4a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\75493d413afe318173c9e0918c68776e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\30780587bbde8ec2e52828f029231c74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\8ccea164cd470f1c0c869dbd7c987d6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\aa519950108e079e995803920c74e381\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\33355c6e4156a5b1c877d608709e4629\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\d66dbd186a8f9c7b8d402c3f25c1af2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\144d19eaacc5183569f196a6b74c3a68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\35f253830f9447b73e08f22c3fe54fde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\526f5fc99b4989f0ef37a00dfc7d31ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\bd89eecde2f47d50ce69e8b3c3aea5ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b6f3f56fc174a2d7865dc473abcdbc8a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\fd005722b29a7e8424e1df4a2c341a55\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\9f2fc0910b3f1def6a8c48f19db80586\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:4.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\146834a1148cfc888491391ee7cf93ce\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b7b0e99c32cb111af8afd18cf4960146\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\29498b33109954cf70c4545bc4bdb412\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\2051d2bb77a2da0d3040c96eb0af89d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\bbd26ddd9abc48141cd9a7d7c1d6c71c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\613c816def3909a6e42a11fe0b24f507\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\871357c205914c6922eccb8bc6077700\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a7b2f2952749f5969855d60857eede4d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e827822fa9dcce4644726fd015e2f4de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\1b53405350584d2c720749c98d2efb55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\534aac7972447c5187552dae25c8c882\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:11-61
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-database:4.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\362186159b4526b73d8216402826940b\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:4.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\362186159b4526b73d8216402826940b\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e3c51256920a8b7a4d6eb2de5ef980ca\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e3c51256920a8b7a4d6eb2de5ef980ca\AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\3d366d6237fade39c29608921d3a9af4\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\3d366d6237fade39c29608921d3a9af4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\faf750738891c239f05dd9b4e7f6bf40\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\faf750738891c239f05dd9b4e7f6bf40\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ab92047d384338f01d51794ffe99f172\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ab92047d384338f01d51794ffe99f172\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\9c9a2d3264fd54c10e19b1d66bd8cfef\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\9c9a2d3264fd54c10e19b1d66bd8cfef\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e08d92a67e11e82756dd39a9483ffa95\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e08d92a67e11e82756dd39a9483ffa95\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\6d09c0dee90c7b93f6f4d7f3a87e1757\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\6d09c0dee90c7b93f6f4d7f3a87e1757\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b6f3f56fc174a2d7865dc473abcdbc8a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b6f3f56fc174a2d7865dc473abcdbc8a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\fd005722b29a7e8424e1df4a2c341a55\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\fd005722b29a7e8424e1df4a2c341a55\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b6f3f56fc174a2d7865dc473abcdbc8a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.google.firebase.codelab.friendlychat.MainActivity
+ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:name
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:12:19-87
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.google.firebase.codelab.friendlychat.SignInActivity
+ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml:21:19-49
+uses-sdk
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\f06f29b0ddb9e585625b3a036bac1d00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\f06f29b0ddb9e585625b3a036bac1d00\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e3c51256920a8b7a4d6eb2de5ef980ca\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e3c51256920a8b7a4d6eb2de5ef980ca\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\3d366d6237fade39c29608921d3a9af4\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\3d366d6237fade39c29608921d3a9af4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\2e907892e95f29077847ad72037ad6e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\2e907892e95f29077847ad72037ad6e6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:4.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\362186159b4526b73d8216402826940b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:4.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\362186159b4526b73d8216402826940b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cbd97757a4e4d3767ec96be207beba94\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cbd97757a4e4d3767ec96be207beba94\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\31a8489b8b0bf03a8ed89408847fb996\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\31a8489b8b0bf03a8ed89408847fb996\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\5fe52f7b390f618d99bb934464419afb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\5fe52f7b390f618d99bb934464419afb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\faf750738891c239f05dd9b4e7f6bf40\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\faf750738891c239f05dd9b4e7f6bf40\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ab92047d384338f01d51794ffe99f172\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ab92047d384338f01d51794ffe99f172\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\9c9a2d3264fd54c10e19b1d66bd8cfef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\9c9a2d3264fd54c10e19b1d66bd8cfef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e08d92a67e11e82756dd39a9483ffa95\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e08d92a67e11e82756dd39a9483ffa95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\7fe53b1df8e90f0d8e9a6d9e075a34b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\7fe53b1df8e90f0d8e9a6d9e075a34b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b7fd5f9a4942c832dd2c3d27aed5740e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b7fd5f9a4942c832dd2c3d27aed5740e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ca27cb5e021e51686179afe4f086de30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ca27cb5e021e51686179afe4f086de30\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\6d09c0dee90c7b93f6f4d7f3a87e1757\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\6d09c0dee90c7b93f6f4d7f3a87e1757\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\c38fcc290bec1998dc8f694fc22d00ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\c38fcc290bec1998dc8f694fc22d00ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a8d7f11bb1f08fef3e73ab8bf255f5a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a8d7f11bb1f08fef3e73ab8bf255f5a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\56a6287df8ee39db8136d9f2dc421ff3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\56a6287df8ee39db8136d9f2dc421ff3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\2b46a5977c63545c247f9cc085d5a4a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\2b46a5977c63545c247f9cc085d5a4a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\75493d413afe318173c9e0918c68776e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\75493d413afe318173c9e0918c68776e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\30780587bbde8ec2e52828f029231c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\30780587bbde8ec2e52828f029231c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\8ccea164cd470f1c0c869dbd7c987d6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\8ccea164cd470f1c0c869dbd7c987d6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\aa519950108e079e995803920c74e381\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\aa519950108e079e995803920c74e381\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\33355c6e4156a5b1c877d608709e4629\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\33355c6e4156a5b1c877d608709e4629\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\d66dbd186a8f9c7b8d402c3f25c1af2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\d66dbd186a8f9c7b8d402c3f25c1af2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\144d19eaacc5183569f196a6b74c3a68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\144d19eaacc5183569f196a6b74c3a68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\35f253830f9447b73e08f22c3fe54fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\35f253830f9447b73e08f22c3fe54fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\526f5fc99b4989f0ef37a00dfc7d31ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\526f5fc99b4989f0ef37a00dfc7d31ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\bd89eecde2f47d50ce69e8b3c3aea5ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\bd89eecde2f47d50ce69e8b3c3aea5ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b6f3f56fc174a2d7865dc473abcdbc8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b6f3f56fc174a2d7865dc473abcdbc8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\fd005722b29a7e8424e1df4a2c341a55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\fd005722b29a7e8424e1df4a2c341a55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\9f2fc0910b3f1def6a8c48f19db80586\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\9f2fc0910b3f1def6a8c48f19db80586\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:4.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\146834a1148cfc888491391ee7cf93ce\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:4.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\146834a1148cfc888491391ee7cf93ce\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b7b0e99c32cb111af8afd18cf4960146\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\b7b0e99c32cb111af8afd18cf4960146\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\29498b33109954cf70c4545bc4bdb412\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\29498b33109954cf70c4545bc4bdb412\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\2051d2bb77a2da0d3040c96eb0af89d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\2051d2bb77a2da0d3040c96eb0af89d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\bbd26ddd9abc48141cd9a7d7c1d6c71c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\bbd26ddd9abc48141cd9a7d7c1d6c71c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\613c816def3909a6e42a11fe0b24f507\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\613c816def3909a6e42a11fe0b24f507\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\871357c205914c6922eccb8bc6077700\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\871357c205914c6922eccb8bc6077700\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a7b2f2952749f5969855d60857eede4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a7b2f2952749f5969855d60857eede4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e827822fa9dcce4644726fd015e2f4de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e827822fa9dcce4644726fd015e2f4de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\1b53405350584d2c720749c98d2efb55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\1b53405350584d2c720749c98d2efb55\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\534aac7972447c5187552dae25c8c882\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\534aac7972447c5187552dae25c8c882\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\irina\Downloads\friendlychat-android-master\friendlychat\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\04312f4dacd2219a5f1de42828179285\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:29:18-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\205730269bf415e95ae7b2d535f9f3e8\AndroidManifest.xml:31:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\a9ba06c8aae84a8ca742c14a86d11c0b\AndroidManifest.xml:32:17-107
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\37b4c01602f13b8fbfdb7119c7417e6d\AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ab92047d384338f01d51794ffe99f172\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ab92047d384338f01d51794ffe99f172\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ab92047d384338f01d51794ffe99f172\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\ab92047d384338f01d51794ffe99f172\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\cfb7a173b14a8e283816cc10f37e29cf\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e08d92a67e11e82756dd39a9483ffa95\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e08d92a67e11e82756dd39a9483ffa95\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\irina\.gradle\caches\transforms-2\files-2.1\e08d92a67e11e82756dd39a9483ffa95\AndroidManifest.xml:24:13-58
